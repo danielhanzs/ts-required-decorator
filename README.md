@@ -1,0 +1,1 @@
+# ts-required-decorator
