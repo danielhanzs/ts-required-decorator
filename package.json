@@ -1,0 +1,16 @@
+{
+  "name": "ts-required-decorator",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "repository": "git@github.com:danielhanzs/ts-required-decorator.git",
+  "author": "Hánzs Dániel <hzs.daniel@gmail.com>",
+  "keywords": ["typescript", "decorator"],
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
